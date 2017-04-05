@@ -18,7 +18,7 @@
             </div>
             <div class="head_phone">
               <div>
-                <p class="icon_mobile"><?php echo $phoneOfficial; ?></p>
+                <p class="icon_mobile"><?php echo $_SERVER['PHONE']; ?></p>
               </div><br>
               <?php include 'calculation.php'; ?>
             </div>

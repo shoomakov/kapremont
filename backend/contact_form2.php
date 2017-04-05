@@ -4,22 +4,17 @@
 ******************************************************************************/
 // require_once 'conf.php';
 
-include 'conf.php';
+require_once 'conf.php';
 include 'functions.php';
 
 $name = $_POST['cf2_name'];
 $tel  = $_POST['cf2_tel'];
 
-$to      = 'sergeyshoomakov@yandex.ru';
-$subject = 'Заявка. kapremont.kametr.ru';
-$message = "Номер заявки: ". order_id() ."<br />".
+$mail->Subject = 'Заявка. kapremont.kametr.ru';
+$mail->Body    = "<b>Номер заявки:</b> ". order_id() ."<br />".
   "Имя: $name<br />".
   "Телефон: $tel <br />";
-$headers = 'From: kapremont@kametr.ru' . "\r\n" .
-    'Reply-To: webmaster@example.com' . "\r\n" .
-    "Content-type:text/html; charset=utf-8" . "\r\n".
-    'X-Mailer: PHP/' . phpversion();
+$mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
-mail($emailOffer, $subject, $message, $headers);
-
+$mail->send();
 ?>

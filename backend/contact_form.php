@@ -4,29 +4,25 @@
 ******************************************************************************/
 // require_once 'conf.php';
 
-include 'conf.php';
+require_once 'conf.php';
 include 'functions.php';
 
 $name = $_POST['cf_name'];
 $email  = $_POST['cf_email'];
+$tel = $_POST['cf_tel'];
 if (!empty($_POST['cf_message'])) {
   $cf_message = $_POST['cf_message'];
 } else {
   $cf_message = "Клиент оставил поле пустым.";
 }
 
-
-$to      = 'sergeyshoomakov@yandex.ru';
-$subject = 'Заявка на замер. kapremont.kametr.ru';
-$message = "<b>Номер заявки:</b> ". order_id() ."<br />".
+$mail->Subject = 'Заявка на замер. kapremont.kametr.ru';
+$mail->Body    = "<b>Номер заявки:</b> ". order_id() ."<br />".
   "<b>Имя:</b> $name<br />".
   "<b>Телефон:</b> $tel <br />".
   "<b>Дополнительная информация:</b><br/>$cf_message";
-$headers = 'From: kapremont@kametr.ru' . "\r\n" .
-    'Reply-To: webmaster@example.com' . "\r\n" .
-    "Content-type:text/html; charset=utf-8" . "\r\n".
-    'X-Mailer: PHP/' . phpversion();
+$mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
-mail($emailOffer, $subject, $message, $headers);
+$mail->send();
 
 ?>

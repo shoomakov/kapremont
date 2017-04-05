@@ -1,5 +1,3 @@
-<?php include_once 'backend/conf.php'; ?>
-
 <div id="contact">
   <div class="mad_section">
     <div class="container">
@@ -22,7 +20,7 @@
                   <input name="cf_name" placeholder="Ваше имя" type="text">
                 </div>
                 <div class="col-sm-6">
-                  <input name="cf_name" placeholder="Телефон" type="tel">
+                  <input name="cf_tel" placeholder="Телефон" type="tel">
                 </div>
               </li>
               <li><input name="cf_email" placeholder="Email" type="email"></li>
@@ -66,7 +64,7 @@
               <h4 class="lnr lnr-calendar-full">Назначить встречу</h4>
               <p>В удобное для Вас время, <br>
                можете посектить наш офис</p>
-               <a href="#">Тел: <?php echo $phoneOfficial; ?></a>
+               <a href="#">Тел: <?php echo $_SERVER['PHONE']; ?></a>
             </div>
           </div>
           <div class="col-md-3 col-sm-6">
