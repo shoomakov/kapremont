@@ -1,0 +1,862 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <title>Ремонт квартир под ключ в Москве - Компания &quot;Каждый Метр&quot;</title>
+  <meta content=
+  "Компания &quot;Каждый Метр&quot; осуществит качественный ремонт квартир под ключ в Москве, благодаря опытным профессионалам." name=
+  "description">
+  <meta content="8HqqwS9imFM9n4IlRDkLiOosOx9w7eAX8QVDL80wvR4" name="google-site-verification">
+  <meta content="telephone=no" name="format-detection">
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+  <meta content="true" name="author">
+  <meta content="true" name="keywords">
+  <link href="css/bootstrap.min.css" media="all" rel="stylesheet" type="text/css">
+  <link href="css/style.css" media="all" rel="stylesheet" type="text/css">
+  <link href="css/fontello.css" rel="stylesheet">
+  <link href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css" rel="stylesheet">
+  <link href="css/responsive.css" media="all" rel="stylesheet" type="text/css">
+  <link href="css/owl.carousel.css" media="all" rel="stylesheet" type="text/css">
+  <link href="css/jquery.fancybox.css" media="all" rel="stylesheet" type="text/css">
+  <link href="css/morph/component.css" rel="stylesheet" type="text/css">
+  <link href="css/morph/normalize.css" rel="stylesheet" type="text/css">
+  <link href="css/morph/content.css" rel="stylesheet" type="text/css">
+  <link href="css/animate.css" rel="stylesheet" type="text/css">
+  <!-- <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" rel="stylesheet" type="text/css"> -->
+</head>
+<body id="index" class="wide_layout">
+
+  <div id="app">
+    <div>
+      <div class="wrapper_container" id="wrapper">
+        <nav class="mobile-advanced" id="mobile-advanced"></nav>
+        <header class="header-main rsAbsoluteEl" id="header">
+          <div class="mad_top_header">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-4">
+                  <a class="logo" href="/">
+                    <img alt="Строительная компания Каждый метр" src="/img/logo/logo.png">
+                  </a>
+                </div>
+                <div class="col-md-8">
+                  <div class="header_info_section">
+                    <div class="head_socials">
+                      <p class="icon_location">124527, РФ, г. Москва, г. Зеленоград,
+                      <br>
+                       к. 814, этаж 6, пом. I, ком. 10</p>
+                    </div>
+                    <div class="head_phone">
+                      <div>
+                        <p class="icon_mobile">8 (495) 37-495-38</p>
+                      </div><br>
+                      <div class="morph-button morph-button-modal morph-button-modal-2 morph-button-fixed">
+                        <button id="morph-button-action" type="button">Заказать звонок</button>
+                        <div class="morph-content">
+                          <div>
+                            <div class="content-style-form content-style-form-1">
+                              <span class="icon icon-close">Close the dialog</span>
+                              <h4 style="margin-top:65px;">Введите Ваши:</h4>
+                              <form id="">
+                                <p style="width:100%;"><input placeholder="Имя" type="name"></p>
+                                <p style="width:100%;"><input placeholder="Телефон" type="email"></p>
+                                <p style="width:100%;"><button class="mad_button size2 style2">Подтвердить</button></p>
+                              </form>
+                              <div class="message_container2"></div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <?php //include 'layout/navigation.php'; ?>
+        </header>
+        <div class="page_coming_soon paralax_image_bg6">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-12" style="top:2vw;">
+                <div class="col-md-7 left-block">
+                  <div class="home_title">
+                    <h1>Капитальный ремонт </h1>
+                    <h3 class="mad_title_style1">- квартир и коттеджей -</h3>
+                  </div>
+                  <div id="is-mobile">
+                    <div class="advantages">
+
+                      <div class="row advantages-margin-bottom">
+                        <div class="col-md-1">
+                          <div class="tick">
+                            <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                 width="57px" height="49px" viewBox="0 0 45.701 45.7" style="enable-background:new 0 0 45.701 45.7;" xml:space="preserve">
+                              <g>
+                                <path d="M20.687,38.332c-2.072,2.072-5.434,2.072-7.505,0L1.554,26.704c-2.072-2.071-2.072-5.433,0-7.504
+                                c2.071-2.072,5.433-2.072,7.505,0l6.928,6.927c0.523,0.522,1.372,0.522,1.896,0L36.642,7.368c2.071-2.072,5.433-2.072,7.505,0
+                                c0.995,0.995,1.554,2.345,1.554,3.752c0,1.407-0.559,2.757-1.554,3.752L20.687,38.332z"/>
+                              </g>
+                            </svg>
+                          </div>
+                        </div>
+                        <div class="col-md-11" style="text-align: left;">
+                          <b>Никакой предоплаты, оплата по факту завершения работ</b>
+                        </div>
+                      </div>
+
+                      <div class="row advantages-margin-bottom">
+                        <div class="col-md-1">
+                          <div class="tick">
+                            <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                 width="57px" height="49px" viewBox="0 0 45.701 45.7" style="enable-background:new 0 0 45.701 45.7;" xml:space="preserve">
+                              <g>
+                                <path d="M20.687,38.332c-2.072,2.072-5.434,2.072-7.505,0L1.554,26.704c-2.072-2.071-2.072-5.433,0-7.504
+                                c2.071-2.072,5.433-2.072,7.505,0l6.928,6.927c0.523,0.522,1.372,0.522,1.896,0L36.642,7.368c2.071-2.072,5.433-2.072,7.505,0
+                                c0.995,0.995,1.554,2.345,1.554,3.752c0,1.407-0.559,2.757-1.554,3.752L20.687,38.332z"/>
+                              </g>
+                            </svg>
+                          </div>
+                        </div>
+                        <div class="col-md-11" style="text-align: left;">
+                          <b>Фиксированные цены от 9000 руб./м<sup>2</sup></b><br />
+                          <span class="advantages-action">Перейти к прайс-листу</span>
+                        </div>
+                      </div>
+
+                      <div class="row advantages-margin-bottom">
+                        <div class="col-md-1">
+                          <div class="tick">
+                            <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                 width="57px" height="49px" viewBox="0 0 45.701 45.7" style="enable-background:new 0 0 45.701 45.7;" xml:space="preserve">
+                              <g>
+                                <path d="M20.687,38.332c-2.072,2.072-5.434,2.072-7.505,0L1.554,26.704c-2.072-2.071-2.072-5.433,0-7.504
+                                c2.071-2.072,5.433-2.072,7.505,0l6.928,6.927c0.523,0.522,1.372,0.522,1.896,0L36.642,7.368c2.071-2.072,5.433-2.072,7.505,0
+                                c0.995,0.995,1.554,2.345,1.554,3.752c0,1.407-0.559,2.757-1.554,3.752L20.687,38.332z"/>
+                              </g>
+                            </svg>
+                          </div>
+                        </div>
+                        <div class="col-md-11" style="text-align: left;">
+                          <b>Бесплатный вызов замерщика</b><br />
+                          <span id="gager" class="advantages-action"><a id="gager-link">Вызвать замерщика</a></span>
+                        </div>
+                      </div>
+
+                      <div class="row advantages-margin-bottom">
+                        <div class="col-md-1">
+                          <div class="tick">
+                            <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                 width="57px" height="49px" viewBox="0 0 45.701 45.7" style="enable-background:new 0 0 45.701 45.7;" xml:space="preserve">
+                              <g>
+                                <path d="M20.687,38.332c-2.072,2.072-5.434,2.072-7.505,0L1.554,26.704c-2.072-2.071-2.072-5.433,0-7.504
+                                c2.071-2.072,5.433-2.072,7.505,0l6.928,6.927c0.523,0.522,1.372,0.522,1.896,0L36.642,7.368c2.071-2.072,5.433-2.072,7.505,0
+                                c0.995,0.995,1.554,2.345,1.554,3.752c0,1.407-0.559,2.757-1.554,3.752L20.687,38.332z"/>
+                              </g>
+                            </svg>
+                          </div>
+                        </div>
+                        <div class="col-md-11" style="text-align: left;">
+                          <b>Подарок на выбор</b><br />
+                          <span class="advantages-action">Посмотреть возможные подарки</span>
+                        </div>
+                      </div>
+
+                    </div>
+                  </div>
+                </div>
+                <div id="dynamic-form-block" class="col-md-5 start-form-section" style="">
+                  <form class="startForm contact_form" id="contact_form2">
+                    <h3 id="change-to-gager" style="color: #fff;">Оставить заявку на ремонт</h3>
+                    <input type="text" name="cf2_name" placeholder="Ваше имя" />
+                    <!-- <input type="email" placeholder="Ваш email" /> -->
+                    <input type="tel" name="cf2_tel" placeholder="Ваш телефон" />
+                    <input class="mad_button style2" type="submit" value="Оставить заявку" />
+                  </form>
+                </div>
+              </div>
+            </div>
+            </div>
+          </div><svg class="separator_type_5_path" preserveaspectratio="none" version="1.1" viewbox="0 0 100 100" xmlns=
+          "http://www.w3.org/2000/svg">
+          <path d="M0 0 L70 100 L100 0 L100 100 L0 100 Z" fill="#fff"></path>
+          <path d="M0 -1 L0 0 L50 100 L100 0 L100 -1 Z" fill="rgba(255,255,255,0.01)"></path>
+          <path d="M0 0 L50 100 L100 0" fill="none" stroke></path></svg>
+        </div>
+        <div id="content">
+          <div id="about">
+            <div class="mad_section inset_none v_align_center_blocks">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <figure class="section_image align_right">
+                      <img alt="true" src=
+                      "/assets/components/Content/About/images/women_457x524.png?5c10e62cdd24054be020d0124e78e28a">
+                    </figure>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="mad_section_container">
+                      <article>
+                        <h3 class="mad_title_style1">Строительная компания</h3>
+                        <h2>&quot;Каждый метр&quot;</h2>
+                        <p>Компания &quot;Каждый метр&quot; - это строительная организация, где работают профессионалы с
+                        огромным опытом, которые смогут обеспечить нашим клиентам качественный ремонт квартир под ключ...</p>
+                        <div class="mad_author">
+                          <h3 class="mad_title_style2">АманДосов.</h3><span>Генеральный
+                          директор</span>
+                        </div>
+                      </article>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="mad_section inset_none">
+              <div class="mad_full_width_grid">
+                <div class="row pattern_section">
+                  <div class="col-md-6" id="mad_item_second">
+                    <div class="mad_pattern bg_pattern_red clearfix">
+                      <article class="f_right">
+                        <h2>Остекление квартир</h2><span class="testclass">и загородных домов</span>
+                        <p>В этом разделе Вы сможете ознакомиться с предложениями по остеклению квартир, частных домов
+                        коттеджей, офисов и производственных цехов. Представлен краткий перечень услуг и есть возможность скачать
+                        прайс.</p><a class="mad_button style2" href="/osteklenie-pod-klyuch">Подробней</a>
+                      </article>
+                    </div>
+                  </div>
+                  <div class="col-md-6" id="mad_item_first">
+                    <figure class="mad_img_wrap">
+                      <img alt="true" src="images/kottedg-7.jpg">
+                    </figure>
+                  </div>
+                </div>
+                <div class="row pattern_section">
+                  <div class="col-md-6">
+                    <figure>
+                      <img alt="true" src="images/remont.jpg">
+                    </figure>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="mad_pattern bg_pattern_dark">
+                      <article>
+                        <h2>Ремонтно-отделочные работы</h2>
+                        <p>В этой категории описываются возможности компании &quot;Каждый Метр&quot; по проведению
+                        отделочных работ - от косметических до капитальных. Оказываем услуги по демонтажу и возведению перегородок, а также
+                        по отделке стен.</p><a class="mad_button style2" href="/remont-i-otdelka-sten">Подробней</a>
+                      </article>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="mad_section">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="mad_section_container mad_testimonials">
+                    <article>
+                      <h3 class="mad_title_style1">Отзывы</h3>
+                      <h2>Наших клиентов</h2>
+                      <div class="carousel_type_1">
+                        <div class="owl-carousel" data-autoplay="true" data-max-items="1">
+                          <div>
+                            <blockquote>
+                              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam euismod dignissim massa ut
+                              venenatis. Vivamus eleifend sem id ligula sollicitudin feugiat.</p>
+                              <div class="mad_author style2">
+                                <h3 class="mad_title_style2">Бобба Фетт</h3><span>Founder and
+                                CEO</span>
+                              </div>
+                            </blockquote>
+                          </div>
+                          <div>
+                            <blockquote>
+                              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam euismod dignissim massa ut
+                              venenatis. Vivamus eleifend sem id ligula sollicitudin feugiat.</p>
+                              <div class="mad_author style2">
+                                <h3 class="mad_title_style2">Кайло Рен</h3><span>Founder and
+                                CEO</span>
+                              </div>
+                            </blockquote>
+                          </div>
+                          <div>
+                            <blockquote>
+                              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam euismod dignissim massa ut
+                              venenatis. Vivamus eleifend sem id ligula sollicitudin feugiat.</p>
+                              <div class="mad_author style2">
+                                <h3 class="mad_title_style2">Хан Соло</h3><span>Founder and
+                                CEO</span>
+                              </div>
+                            </blockquote>
+                          </div>
+                        </div>
+                      </div>
+                    </article>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <figure class="section_image align_right">
+                    <img alt="true" src="images/565x520_img.jpg">
+                  </figure>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="services">
+            <div class="paralax_image_bg9">
+              <svg class="separator_type_5_path top" preserveaspectratio="none" version="1.1" viewbox="0 0 100 100"
+              xmlns="http://www.w3.org/2000/svg">
+              <path d="M0 0 L30 100 L100 0 L100 100 L0 100 Z" fill="#fff" stroke="#fff"></path>
+              <path d="M0 0 L0 0 L50 100 L100 0 L100 0 Z" fill="rgba(255,255,255,0.01)"></path></svg>
+              <div class="container">
+                <div class="row">
+                  <div class="col-sm-12">
+                    <div class="mad_section_container">
+                      <h3 class="mad_title_style1">Все услуги</h3>
+                      <h2 class="mad_separator" style="color:#fff;">Нашей компании</h2>
+                    </div>
+                    <div class="carousel_type_2">
+                      <div class="owl-carousel" data-max-items="3">
+                        <div>
+                          <div class="mad_item_hover">
+                            <figure>
+                              <img alt="" src=
+                              "/assets/components/Content/Services/Carousel/images/400x400/osteklenie.jpg?a63464647404ef759073249cf67c09cc">
+                            </figure>
+                            <div class="mad_item_desc with_bg_img">
+                              <h5>Остекление</h5>
+                            </div><a class="item_overlay" href="/osteklenie-pod-klyuch">
+                            <div class="text_holder">
+                              <p>Остекление квартир и загородных домов</p>
+                            </div></a>
+                          </div>
+                        </div>
+                        <div>
+                          <div class="mad_item_hover">
+                            <figure>
+                              <img alt="" src=
+                              "/assets/components/Content/Services/Carousel/images/400x400/vent.jpg?ffbdc3aa296c390a4534914e7325a430">
+                            </figure>
+                            <div class="mad_item_desc with_bg_img">
+                              <h5>Работы по вентиляции</h5>
+                            </div><a class="item_overlay" href="/raboty-po-montazhu-ventilyacii">
+                            <div class="text_holder">
+                              <p>Работы по вентиляции</p>
+                            </div></a>
+                          </div>
+                        </div>
+                        <div>
+                          <div class="mad_item_hover">
+                            <figure>
+                              <img alt="" src=
+                              "/assets/components/Content/Services/Carousel/images/400x400/konder.jpg?e1643922ab3ded29f039b9f3656d6b44">
+                            </figure>
+                            <div class="mad_item_desc with_bg_img">
+                              <h5>Работы по кондиционированию</h5>
+                            </div><a class="item_overlay" href="/montazh-kondicionirovaniya">
+                            <div class="text_holder">
+                              <p>Работы по кондиционированию</p>
+                            </div></a>
+                          </div>
+                        </div>
+                        <div>
+                          <div class="mad_item_hover">
+                            <figure>
+                              <img alt="" src=
+                              "/assets/components/Content/Services/Carousel/images/400x400/npotolki.jpg?8ab8ddb697bc02dfdc96bd07636f449c">
+                            </figure>
+                            <div class="mad_item_desc with_bg_img">
+                              <h5>Натяжные потолки</h5>
+                            </div><a class="item_overlay" href="/montazh-natyazhnyh-potolkov">
+                            <div class="text_holder">
+                              <p>Натяжные потолки</p>
+                            </div></a>
+                          </div>
+                        </div>
+                        <div>
+                          <div class="mad_item_hover">
+                            <figure>
+                              <img alt="" src=
+                              "/assets/components/Content/Services/Carousel/images/400x400/otdelka.jpg?f2232eaee5e3261eb2ab4016198ff292">
+                            </figure>
+                            <div class="mad_item_desc with_bg_img">
+                              <h5>Ремонтно-отделоные работы</h5>
+                            </div><a class="item_overlay" href="/remontno-otdelochnye-raboty">
+                            <div class="text_holder">
+                              <p>Ремонтно-отделоные работы</p>
+                            </div></a>
+                          </div>
+                        </div>
+                        <div>
+                          <div class="mad_item_hover">
+                            <figure>
+                              <img alt="" src=
+                              "/assets/components/Content/Services/Carousel/images/400x400/sanuzel.jpg?f6f6ba639c8f5b0af82ab967dde55f88">
+                            </figure>
+                            <div class="mad_item_desc with_bg_img">
+                              <h5>Ремонт санузлов</h5>
+                            </div><a class="item_overlay" href="/remont-sanuzla-pod-klyuch">
+                            <div class="text_holder">
+                              <p>Ремонт санузлов</p>
+                            </div></a>
+                          </div>
+                        </div>
+                        <div>
+                          <div class="mad_item_hover">
+                            <figure>
+                              <img alt="" src=
+                              "/assets/components/Content/Services/Carousel/images/400x400/mebel.jpg?02c4c8f5e09bb596861036febd15e9a9">
+                            </figure>
+                            <div class="mad_item_desc with_bg_img">
+                              <h5>Производство корпусной мебели</h5>
+                            </div><a class="item_overlay" href="/proizvodstvo-korpusnoj-mebeli">
+                            <div class="text_holder">
+                              <p>Производство корпусной мебели</p>
+                            </div></a>
+                          </div>
+                        </div>
+                        <div>
+                          <div class="mad_item_hover">
+                            <figure>
+                              <img alt="" src=
+                              "/assets/components/Content/Services/Carousel/images/400x400/electro.jpg?7ce2c31e34477c724b6cb8b5e83c3a1b">
+                            </figure>
+                            <div class="mad_item_desc with_bg_img">
+                              <h5>Электромонтаж</h5>
+                            </div><a class="item_overlay" href="/ehlektromontazh-pod-klyuch">
+                            <div class="text_holder">
+                              <p>Электромонтаж</p>
+                            </div></a>
+                          </div>
+                        </div>
+                        <div>
+                          <div class="mad_item_hover">
+                            <figure>
+                              <img alt="" src=
+                              "/assets/components/Content/Services/Carousel/images/400x400/main.jpg?7a605d099973b4f4260754aa7dab3895">
+                            </figure>
+                            <div class="mad_item_desc with_bg_img">
+                              <h5>Общестроительные работы</h5>
+                            </div><a class="item_overlay" href="/obshchestroitelnye-raboty">
+                            <div class="text_holder">
+                              <p>Общестроительные работы</p>
+                            </div></a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="align_center">
+                        <a class="mad_button style2" href="/uslugi">К разделу услуг</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div><svg class="separator_type_5_path" preserveaspectratio="none" version="1.1" viewbox="0 0 100 100"
+              xmlns="http://www.w3.org/2000/svg">
+              <path d="M0 0 L70 100 L100 0 L100 100 L0 100 Z" fill="#fff" stroke="#fff"></path>
+              <path d="M0 -1 L0 0 L50 100 L100 0 L100 -1 Z" fill="rgba(255,255,255,0.01)"></path></svg>
+            </div>
+            <div class="mad_section v_align_center_blocks inset_none" id="services3">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <figure class="section_image align_center">
+                      <img alt="true" src="images/500x385_img.jpg">
+                    </figure>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="mad_section_container">
+                      <article>
+                        <h3 class="mad_title_style1">Прайс листы</h3>
+                        <h2>Наших услуг</h2>
+                        <p>Ознакомьтесь с полным перечнем услуг, оказываемых нашей компанией. Для удобства клиентов
+                        имеется как подробный общий прейскурант, так и прайсы, ранжированные по категориям работ.</p>
+                      </article>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="gallery">
+            <div class="mad_section paralax_image_bg1">
+              <div class="container relative">
+                <div class="row">
+                  <div class="col-sm-12">
+                    <div class="mad_section_container">
+                      <h3 class="mad_title_style1">Портфолио</h3>
+                      <h2 class="mad_separator style2">Выполненные работы</h2>
+                      <div class="owl_custom_buttons">
+                        <button class="mad_owl_prev"></button><button class="mad_owl_next"></button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="carousel_type_2 full_width_gallery">
+                <div class="owl-carousel gallery_carousel" data-max-items="4">
+                  <div>
+                    <div class="mad_item_hover">
+                      <figure>
+                        <img alt="true" src="images/test/300x225-1.jpeg">
+                      </figure>
+                      <div class="item_overlay">
+                        <div class="text_holder">
+                          <a class="mad_icon_plus gallery" href="images/test/300x225-1.jpeg" rel=
+                          "category"></a><a class="mad_icon_link" href="#"></a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="mad_item_hover">
+                      <figure>
+                        <img alt="true" src="images/test/300x225-5.jpeg">
+                      </figure>
+                      <div class="item_overlay">
+                        <div class="text_holder">
+                          <a class="mad_icon_plus gallery" href="images/test/300x225-5.jpeg" rel=
+                          "category"></a><a class="mad_icon_link" href="#"></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div>
+                    <div class="mad_item_hover">
+                      <figure>
+                        <img alt="true" src="images/test/300x225-2.jpeg">
+                      </figure>
+                      <div class="item_overlay">
+                        <div class="text_holder">
+                          <a class="mad_icon_plus gallery" href="images/test/300x225-2.jpeg" rel=
+                          "category"></a><a class="mad_icon_link" href="#"></a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="mad_item_hover">
+                      <figure>
+                        <img alt="true" src="images/test/300x225-6.jpeg">
+                      </figure>
+                      <div class="item_overlay">
+                        <div class="text_holder">
+                          <a class="mad_icon_plus gallery" href="images/test/300x225-6.jpeg" rel=
+                          "category"></a><a class="mad_icon_link" href="#"></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div>
+                    <div class="mad_item_hover">
+                      <figure>
+                        <img alt="true" src="images/test/300x225-3.jpeg">
+                      </figure>
+                      <div class="item_overlay">
+                        <div class="text_holder">
+                          <a class="mad_icon_plus gallery" href="images/test/300x225-3.jpeg" rel=
+                          "category"></a><a class="mad_icon_link" href="#"></a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="mad_item_hover">
+                      <figure>
+                        <img alt="true" src="images/test/300x225-7.jpeg">
+                      </figure>
+                      <div class="item_overlay">
+                        <div class="text_holder">
+                          <a class="mad_icon_plus gallery" href="images/test/300x225-7.jpeg" rel=
+                          "category"></a><a class="mad_icon_link" href="#"></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div>
+                    <div class="mad_item_hover">
+                      <figure>
+                        <img alt="true" src="images/test/300x225-4.jpeg">
+                      </figure>
+                      <div class="item_overlay">
+                        <div class="text_holder">
+                          <a class="mad_icon_plus gallery" href="images/test/300x225-4.jpeg" rel=
+                          "category"></a><a class="mad_icon_link" href="#"></a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="mad_item_hover">
+                      <figure>
+                        <img alt="true" src="images/test/300x225-8.jpg">
+                      </figure>
+                      <div class="item_overlay">
+                        <div class="text_holder">
+                          <a class="mad_icon_plus gallery" href="images/test/300x225-8.jpg" rel="category"></a><a class=
+                          "mad_icon_link" href="#"></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="news">
+            <div class="mad_section paralax_image_bg4">
+              <div class="container">
+                <div class="row">
+                  <div class="col-lg-5"></div>
+                  <div class="col-lg-7">
+                    <div class="mad_section_container mad_item_offset">
+                      <h3 class="mad_title_style1">Акции</h3>
+                      <h2>Скидки и предложения</h2>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="full_width_bg_pattern bg_pattern_red">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-5">
+                      <figure>
+                        <img alt="" src=
+                        "/assets/components/Content/OffersNews/images/magazine.png?069e3abf98ba02f7329fe7e7821e10a5">
+                      </figure>
+                    </div>
+                    <div class="col-md-7">
+                      <div class="mad_section_container">
+                        <h3 class="mad_title_style1">Чтобы узнать о последних акциях и предложениях</h3><a class=
+                        "mad_button style2" href="/akcii-i-predlozheniya">Перейти сюда</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div><svg class="separator_type_5_path" preserveaspectratio="none" version="1.1" viewbox="0 0 100 100"
+              xmlns="http://www.w3.org/2000/svg">
+              <path d="M0 0 L70 100 L100 0 L100 100 L0 100 Z" fill="#fff" stroke="#fff" stroke-width="-1"></path>
+              <path d="M0 -1 L0 0 L50 100 L100 0 L100 -1 Z" fill="rgba(255,255,255,0.01)"></path></svg>
+            </div>
+          </div>
+          <div id="blog">
+            <div class="mad_section paralax_image_bg1">
+              <div class="container">
+                <div class="row">
+                  <div class="col-sm-12">
+                    <div class="mad_section_container">
+                      <h3 class="mad_title_style1">Блог</h3>
+                      <h2 class="mad_separator style2">Последние новости</h2>
+                    </div>
+                    <div class="carousel_type_2">
+                      <div class="owl-carousel style2" data-max-items="2">
+                        <div>
+                          <div class="mad_blog_post">
+                            <figure>
+                              <img alt="" src=
+                              "/assets/routes/blog/posts/2016/12/18/images/derevyannyj-dom-iz-listvennicy.jpg?0d5fb38d932402424f1dace4e8c8e917">
+                              <div class="mad_post_date">
+                                <div class="date">
+                                  18 / ДЕК / 2016
+                                </div>
+                              </div>
+                            </figure>
+                            <div class="mad_post_content clearfix">
+                              <div class="mad_post_info">
+                                <h2><a href="/derevyannyj-dom-iz-listvennicy">Деревянный дом из
+                                лиственницы</a></h2>
+                                <div class="mad_post_action">
+                                  <a class="admin" href="#">Admin</a><a class="days" href="#">Час
+                                  назад</a><a class="comment" href="#">Нет коментариев</a>
+                                </div>
+                                <p>Как стройматериал лиственница используется очень давно. Общеизвестен факт, что
+                                Венеция построена на сваях из лиственницы, и они с течением времени приобрели крепость бетона. По сей день
+                                в Европе лиственница считается элитным строительным материалом. Но в России благодаря Западной и
+                                Центральной Сибири, где она произрастает, лиственницу можно сравнительно недорого купить и доставить к
+                                местам обработки и строительства.</p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div>
+                          <div class="mad_blog_post">
+                            <figure>
+                              <img alt="" src="images/blog/2016/12/klimalan-luchshij-uteplitel-dlya-sruba.jpg">
+                              <div class="mad_post_date">
+                                <div class="date">
+                                  19 / ДЕК / 2016
+                                </div>
+                              </div>
+                            </figure>
+                            <div class="mad_post_content clearfix">
+                              <div class="mad_post_info">
+                                <h2><a href=
+                                "/klimalan-luchshij-uteplitel-dlya-sruba">&quot;Клималан&quot; - лучший утеплитель для сруба</a></h2>
+                                <div class="mad_post_action">
+                                  <a class="admin" href="#">Admin</a><a class="days" href="#">Час
+                                  назад</a><a class="comment" href="#">Нет коментариев</a>
+                                </div>
+                                <p>&quot;Клималан&quot; - это полноценный строительный материал, применяемый для
+                                утепления межвенцового пространства. Его делают из натуральной овечьей шерсти, которую промывают в особом
+                                солевом растворе. Благодаря такой обработке шерсть не теряет положительных свойств (экологичность,
+                                антиаллергенность), но при этом становится &quot;неинтересной&quot; разного рода вредителям.</p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="contact">
+            <div class="mad_section">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="mad_section_container">
+                      <article>
+                        <h3 class="mad_title_style1">Мы на связи</h3>
+                        <h2>Задайте вопрос</h2>
+                        <p>Заполните форму с Вашим вопросом и через короткое время Вы получите полноценный ответ или
+                        консультацию от нашего менеджера.</p>
+                      </article>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <form class="contact_form" id="contact_form" name="contact_form">
+                      <ul>
+                        <li class="row">
+                          <div class="col-sm-6">
+                            <input name="cf_name" placeholder="Ваше имя" type="text">
+                          </div>
+                          <div class="col-sm-6">
+                            <input name="cf_name" placeholder="Фамилия" type="text">
+                          </div>
+                        </li>
+                        <li><input name="cf_email" placeholder="Email" type="url"></li>
+                        <li>
+                        <textarea name="cf_message" placeholder="Сообщение..."></textarea></li>
+                      </ul><button class="mad_button">Отправить</button>
+                    </form>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="mad_section paralax_image_bg5" id="contact2">
+              <div class="container">
+                <div class="mad_contact_items mad_flex_list">
+                  <div class="row">
+                    <div class="col-md-3 col-sm-6">
+                      <div class="mad_contact_item" itemscope itemtype="http://schema.org/Organization">
+                        <h4 class="lnr lnr-location">Найти нас</h4><span itemprop="name">Каждый
+                        Метр</span>
+                        <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                          <p><span itemprop="addressLocality">г. Москва, г. Зеленоград</span>
+                          ,<br>
+                          <span itemprop="streetAddress">к. 814</span>, этаж 6, пом. I, ком. 10
+                          </p><span itemprop="telephone" style="display:none;">8 (495)
+                          37-495-38</span><a href="#"><span itemprop=
+                          "email">info@kametr.ru</span></a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                      <div class="mad_contact_item">
+                        <h4 class="lnr lnr-clock">Время работы</h4>
+                        <p>Пн - Пт 9:00 - 18:00</p>
+                      </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                      <div class="mad_contact_item">
+                        <h4 class="lnr lnr-calendar-full">Назначить встречу</h4>
+                        <p>В удобное для Вас время, <br>
+                         можете посектить наш офис</p><a href="#">Тел: 8
+                        (495) 37-495-38</a>
+                      </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                      <div class="mad_contact_item">
+                        <h4 class="lnr lnr-earth">Присоединяйтесь</h4>
+                        <div class="social_icon_list">
+                          <ul>
+                            <li>
+                              <a class="soc_icon icon-facebook" href="#"></a>
+                            </li>
+                            <li>
+                              <a class="soc_icon icon-twitter" href="#"></a>
+                            </li>
+                            <li>
+                              <a class="soc_icon icon-gplus" href="#"></a>
+                            </li>
+                            <li>
+                              <a class="soc_icon icon-instagram" href="#"></a>
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="relative">
+              <div class="map_container" id="googleMap2"></div>
+            </div>
+          </div>
+        </div>
+        <footer class="footer" id="footer">
+          <div class="mad_top_footer">
+            <div class="v_align_center_blocks">
+              <div class="container">
+                <div class="row">
+                  <div class="col-sm-4">
+                    <div class="mad_nav_list">
+                      <ul>
+                        <li>
+                          <a href="/">Главная</a>
+                        </li>
+                        <li>
+                          <a href="/about">О Компании</a>
+                        </li>
+                        <li>
+                          <a href="/uslugi">Услуги</a>
+                        </li>
+                        <li>
+                          <a href="/contact">Контакты</a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <a class="mad_logo_container" href="#"><img alt="true" src=
+                    "images/logo_bel_ser.png"></a>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="align_right">
+                      <span>2017 © ООО &quot;Каждый Метр&quot;</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </footer>
+      </div>
+    </div>
+  </div>
+  <script src="js/jquery-2.1.0.min.js"></script>
+  <script src="js/jquery-ui.min.js"></script>
+  <script src="plugins/jquery.queryloader2.min.js"></script>
+  <script src="plugins/owl.carousel.min.js"></script>
+  <script src="plugins/retina.js"></script>
+  <script src="plugins/twitter/jquery.tweet.js"></script>
+  <script src="plugins/jquery.fancybox.js"></script>
+  <script src="plugins/instafeed.min.js"></script>
+  <script src="plugins/twitter/jquery.tweet.js"></script>
+  <script src="js/plugins.js"></script>
+  <script src="js/script.js"></script>
+  <script src="plugins/jquery.modernizr.js"></script>
+  <script src="plugins/isotope.pkgd.min.js"></script>
+  <script src="js/morph/uiMorphingButton_fixed.js"></script>
+  <script src="js/morph/modernizr.custom.js"></script>
+  <script src="js/morph/classie.js"></script>
+  <script src="js/morph/script.js"></script>
+  <script src="http://maps.googleapis.com/maps/api/js"></script>
+  <script src="js/kametr.js"></script>
+</body>
+</html>
