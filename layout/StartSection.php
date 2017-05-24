@@ -46,7 +46,7 @@
                   </div>
                 </div>
                 <div class="col-md-11 advantages-margin-top" style="text-align: left;">
-                  <b>Фиксированные цены от 9000 руб./м<sup>2</sup></b><br />
+                  <b>Фиксированные цены от 3500 руб./м<sup>2</sup></b><br />
                   <span class="advantages-action"><a href="#services">Перейти к прайс-листу</a></span>
                 </div>
               </div>
